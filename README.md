@@ -1,4 +1,4 @@
-# Battle Simulator
+# Command Battle
 
 ## 概要
 
