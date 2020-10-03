@@ -18,7 +18,7 @@ def main():
         character.set_friend(party2)
         character.set_enemy(party1)
 
-    winner = Battle(party1, party2).run()
+    winner = Battle((party1, party2)).run()
 
     print_line()
     print_line()
